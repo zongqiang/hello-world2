@@ -1,2 +1,5 @@
 # hello-world2
-try guide 2nd
+
+Hi there!
+
+Welcome to my hello world project.
